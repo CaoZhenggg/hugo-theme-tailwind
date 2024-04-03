@@ -1,6 +1,6 @@
 # SEO keywords and description for your site.
 keywords = "hugo, tailwind, tailwindcss, hugo theme, hugo theme tailwind"
-subtitle = "Example site for hugo-theme-tailwind"
+subtitle = "刨根问底"
 
 # dir name of your blog content (default is `content/posts`).
 # the list of set content will show up on your index page (baseurl).
@@ -18,7 +18,7 @@ showReadingTime = true
   threshold = 0.3 # https://www.fusejs.io/api/options.html#threshold
 
 [header]
-  logo = "https://placehold.co/512/webp"
+  logo = "logo.svg"
   sticky = false
 
 [footer]
